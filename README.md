@@ -1,5 +1,5 @@
 # PBF-3C
 Pemrograman Berbasis Framework (Kelas TI - 3C)
-
-
-For info https://gist.github.com/CristinaSolana/1885435
+Nama : Hafiz Nur Javier
+Kelas: TI-3C
+NIM  : 1741720147

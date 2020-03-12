@@ -1,0 +1,18 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 1584018936075,
+      "nim": "17141720147",
+      "nama": "Hafiz Nur Javier",
+      "alamat": "Balitar",
+      "hp": "08997755556",
+      "angkatan": "2018",
+      "status": "AKTIF"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

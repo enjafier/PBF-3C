@@ -1,0 +1,69 @@
+body{
+	font-family: sans-serif;
+
+}
+ 
+h1{
+    text-align: center;
+    padding: 2px 5px 75px 100px;
+    text-decoration: double;
+	/*ketebalan font*/
+}
+.tengah{
+    text-align: center;
+}
+p.groove {border-style: groove;}
+ 
+.tulisan_login{
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+}
+ 
+.kotak_login{
+	width: 350px;
+    background: white;
+    border-style: groove;
+	/*meletakkan form ke tengah*/
+	margin: 30px auto;
+    padding: 30px 20px;
+    
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.form_login{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+.tombol_cancel{
+    background: #e61313;
+	color: white;
+	font-size: 11pt;
+	width: 30%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+.textfield {
+    width: 200px;
+    height: 30px;
+    border: 1px double rgb(167, 209, 238);
+	border-radius: 3px;
+   }

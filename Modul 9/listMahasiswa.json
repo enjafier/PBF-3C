@@ -1,0 +1,32 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "idbarang": "4",
+      "nama": "r3",
+      "harga": "550000",
+      "stok": "33",
+      "id": 1585998603998
+    },
+    {
+      "userId": 1,
+      "idbarang": "1",
+      "nama": "awe",
+      "harga": "111",
+      "stok": "4",
+      "id": 1585998778791
+    },
+    {
+      "userId": 1,
+      "idbarang": "2",
+      "nama": "awe",
+      "harga": "111",
+      "stok": "4",
+      "id": 1585998781774
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

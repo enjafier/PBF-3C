@@ -1,0 +1,38 @@
+.table {
+    line-height:1px;
+    border-style: inherit;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgb(77, 77, 189);
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    line-height: 4px;
+  }
+  .button1 {
+      padding: 10px 43px;
+}
+  
+
+
+
+.kiri
+  {
+  
+  float:left;
+  }
+.kanan
+  {
+  float:right;
+  text-align: right;
+  
+
+  }
